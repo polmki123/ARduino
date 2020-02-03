@@ -1,0 +1,42 @@
+﻿  ARduino.cpp
+c:\opencv249\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv249\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv249\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 'fopen' 선언을 참조하십시오.
+c:\opencv249\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv249\build\include\opencv2\flann\dist.h : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\jdy\documents\visual studio 2010\projects\arduino\arduino\texture.h(85): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+c:\users\jdy\documents\visual studio 2010\projects\arduino\arduino\texture.h(71): warning C4101: 'bpp' :참조되지 않은 지역 변수입니다.
+c:\users\jdy\documents\visual studio 2010\projects\arduino\arduino\texture.h(70): warning C4101: 'planes' :참조되지 않은 지역 변수입니다.
+  LINK : C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\ARduino.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+LINK : warning LNK4098: 'LIBCMTD' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+libARd.lib(arDetectMarker.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(arDetectMarker.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(arDetectMarker2.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(arDetectMarker2.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(arGetCode.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(arGetCode.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(arGetMarkerInfo.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(arGetMarkerInfo.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(arGetTransMat.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(arGetTransMat.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(arGetTransMat2.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(arGetTransMat2.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(arGetTransMat3.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(arGetTransMat3.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(arGetTransMatCont.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(arGetTransMatCont.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(arLabeling.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(arLabeling.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(arUtil.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(arUtil.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(mAlloc.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(mAlloc.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(mAllocDup.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(mAllocDup.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(mAllocMul.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(mAllocMul.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(mDup.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(mDup.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(mFree.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(mFree.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(mMul.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(mMul.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(mPCA.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(mPCA.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(mSelfInv.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(mSelfInv.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(paramChangeSize.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(paramChangeSize.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(paramDecomp.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(paramDecomp.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(paramDisp.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(paramDisp.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(paramDistortion.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(paramDistortion.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(paramFile.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(paramFile.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(vAlloc.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(vAlloc.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(vFree.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(vFree.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(vHouse.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(vHouse.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(vInnerP.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(vInnerP.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARd.lib(vTridiag.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARd.lib(vTridiag.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+libARgsubd.lib(gsub.obj) : warning LNK4099: 'vc100.pdb' PDB를 'libARgsubd.lib(gsub.obj)' 또는 'C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\vc100.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  ARduino.vcxproj -> C:\Users\JDY\Documents\Visual Studio 2010\Projects\ARduino\Debug\ARduino.exe
